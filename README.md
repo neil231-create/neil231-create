@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+👋 Hi, I’m @NewlLearn
+- 👀 I’m interested in JAVA Development
+- 🌱 I’m currently learning JAVA 
+- 💞️ I’m looking to collaborate on Open Source Projects
+- 📫 How to reach me Through my Email :) ( tracyneilprivate@gmail.com )
+
 <!--
 **neil231-create/neil231-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
