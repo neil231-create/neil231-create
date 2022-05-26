@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Tracy Neil Padilla
 - 👀 I’m interested in JAVA Development
-- 🌱 I’m currently learning JAVA 
+- 🌱 I’m currently learning JAVA Development
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me Through my Email :) ( tracyneilprivate@gmail.com )
 
