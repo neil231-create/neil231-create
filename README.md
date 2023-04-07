@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 👋 Hi, I’m Tracy Neil Padilla
-- 👀 I’m interested in Salesforce
-- 🌱 I’m currently learning about the Salesforce Ecosystem
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 👀 I’m a Salesforce Certfied Admin/P.A.B/ Business Analyst.
 - 📫 How to reach me Through my Email :) ( tracyneilprivate@gmail.com )
 
 <!--
