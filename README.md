@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Tracy Neil Padilla
 - 👀 I’m a Salesforce Certfied Admin/P.A.B/ Business Analyst.
-- Currently focus on Learning c# .netcore Development
+- Currently focus on Learning c# .Net Development
 - 📫 How to reach me Through my Email :) ( tracyneilprivate@gmail.com )
 
 <!--
