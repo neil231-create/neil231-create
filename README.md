@@ -3,7 +3,7 @@
 👋 Hi, I’m Tracy Neil Padilla
 - 👀 I’m a Salesforce Certfied Admin/P.A.B/ Business Analyst.
 - Im a Computer Engineer Graduate from Cebu Institute of Technology University
-- Currently Learning c# .Net Development
+- Currently Learning Site Reliability Engineer Stack
 - 📫 How to reach me Through my Email :) ( tracyneilprivate@gmail.com )
 
 <!--
