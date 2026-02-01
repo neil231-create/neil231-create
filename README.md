@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 👋 Hi, I’m Tracy Neil Padilla
-- 👀 I’m a Cybersecurity Analyst
+- 👀 I’m a Cybersecurity Analyst and currently inactive here.
   
 
 <!--
