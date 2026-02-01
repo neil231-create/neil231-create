@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 👋 Hi, I’m Tracy Neil Padilla
-- 👀 I’m a Salesforce Certfied Admin/P.A.B/ Business Analyst.
-- Im a Computer Engineer Graduate from Cebu Institute of Technology University
-- Currently Learning Site Reliability Engineer Stack
-- 📫 How to reach me Through my Email :) ( tracyneilprivate@gmail.com )
+- 👀 I’m a Cybersecurity Analyst
+  
 
 <!--
 **neil231-create/neil231-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
